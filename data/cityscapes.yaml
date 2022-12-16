@@ -1,0 +1,9 @@
+path: /kaggle/input/cityscapes/cityscapes
+train: images/train
+val: images/val
+test: images/test
+# number of detection classes
+nc: 10
+
+# class names
+names: ['car', 'traffic sign', 'rider', 'person', 'bicycle', 'traffic light', 'bus', 'motorcycle', 'truck', 'train']
